@@ -69,3 +69,41 @@ Javob: Background-repeat style bizga yordam beradi.
 
 
 <!-- ------------------------------------------------------ -->
+
+Javascript Questions
+
+1. JavaScript-da massivni necha xil usulda e'lon qilishingiz mumkin?
+Javob: Massivni e'lon qilishning asosan ikkita usuli mavjud. let x = [], let arr = new Array()
+
+2. JavaScript-da oynadan (window) foydalanish nima?
+Javob: The oyna (window) ob'ekti global JavaScript ob'ekti. Oyna ob'ekti brauzer oynasini aks ettiruvchi brauzer tomonidan avtomatik ravishda yaratiladi. U ogohlantirish dialog oynasi, tasdiqlash dialog oynasi, kirish dialog oynasi va boshqalar kabi ochiladigan dialog oynasini ko'rsatish uchun ishlatiladi.
+
+3. JavaScript ma'lumotlarining (data types) turlari qanday?
+Javob: JavaScript-da ikkita turdagi ma'lumotlar mavjud:
+
+Primitiv ma'lumotlar turlari masalan, String, Number va Boolean ibtidoiy ma'lumotlar turlari.
+
+Oddiy bo'lmagan ma'lumotlar turlari Ob'ekt, Array va Funktsiya (barcha turdagi ob'ektlar) ma'lumotlar uchun ibtidoiy bo'lmagan turlardir
+
+4. Undefined va null qiymatlarini bir biridan farqi nimada?
+Javob: undefined demak, o'zgaruvchi e'lon qilingan, ammo u hali tayinlanmagan qiymati. undefined bu o'z-o'zidanundefined).
+Nol qiymati, boshqa tomondan, a "null" kalit so'zi bilan aniq ko'rsatilgan qiymat. A null ob'ekt hisoblanadi.
+
+5. Java va Javascript o'rtasidagi farq nima?
+Javob: Java dasturlash tili. Ammo JavaScript skript tili bo'lib, undan HTML bilan ham foydalanish mumkin. Java va JavaScript ikkalasi ham mustaqil tillardir va turli maqsadlar uchun mo'ljallangan.
+
+6. Javascript-da isNaN nima?
+Javob: isNan funktsiyasi berilgan qiymatning sonli yoki yo'qligini tekshirish uchun ishlatiladi.
+
+7. JavaScript global o'zgaruvchilari nima? Ushbu o'zgaruvchilar qanday e'lon qilinadi va ular bilan qanday muammolar bog'liq?
+Javob: Global o'zgaruvchilar - bu kodning butun uzunligi davomida mavjud bo'lgan narsalar, ya'ni ularning doirasi yo'q. Var kalit so'zi mahalliy o'zgaruvchini yoki ob'ektni e'lon qilish uchun ishlatiladi. Agar var kalit so'zi o'tkazib yuborilsa, global o'zgaruvchi e'lon qilinadi.
+
+8. Javascript tilini qaysi kompaniya ishlab chiqgan?
+Javob: Netscape
+
+9. Javscript da "this" suzini nimani anglatadi?
+Javob: "This"  so`zi ushbu so`z ishatilgan obyektni bildiradi.
+
+10. === Ushu operator nimani bildiradi?
+Javob: U strict equlaty deb nomlanada, bu ikkita malumotni bir biriga nafaqat qiymat jihatdan balki data type jihatidan tekshiradigan operator hisoblanadi.
+
